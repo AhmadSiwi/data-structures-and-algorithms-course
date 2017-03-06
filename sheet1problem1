@@ -1,0 +1,22 @@
+1- Give an analysis of the running times for each of the following program fragments:
+A)
+for (int i = 0; i < n; ++i)
+cout<<i;
+B)
+for (int i = 1; i <n ; i *= 2)
+cout<<i;
+C)
+for (int i = 0; i < n; i++)
+f(n); // where f(n) has O(log n)
+D)
+void decimal2binary (int n)
+{ if(n>0)
+{decimal2binary(n/2); cout<<n%2; }
+}
+
+Answers:
+
+A) O(n)
+B) O(log(n))
+C) O(n log(n))
+D) O(log(n))
