@@ -1,3 +1,8 @@
+/*
+Create a C/C++ function that takes an array of integers and returns whether it has repeated items
+or not. Determine the big O of your solution. Repeat if the array is sorted.
+*/
+
 #include <iostream>
 
 using namespace std;
