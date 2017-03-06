@@ -26,7 +26,7 @@ int main()
     cin>>n;
     float *arr = new float[n];
     float sum =0, factorial=1;
-    arr[0] = 1;
+    arr[0] = 1/factorial;
     sum += arr[0];
     for(i=1; i<n; i++)
     {
