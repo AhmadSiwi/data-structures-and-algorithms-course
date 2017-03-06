@@ -1,24 +1,24 @@
-/**
+/*
 Create a dynamic array of float numbers, the size of the array is determined by the user through
 cin, each element in the array holds a value of 1/(index)! i.e a[i]=1.0/i!, run your program and
 compute the sum of the array elements (which value the sum tends to ?)
 The sum tends to 3
-**/
+*/
 
 #include <iostream>
 
 using namespace std;
 
-/** We can use this recursive function
-    or we can use the iterative factorial as in the main function
-/**
+/* We can use this recursive function
+   or we can use the iterative factorial as in the main function
+
 float factorial(int f)
 {
     if(f==0||f==1)
         return 1;
     return f*factorial(f-1);
 }
-**/
+*/
 
 int main()
 {
