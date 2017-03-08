@@ -1,0 +1,7 @@
+Estimate the big O for the following T(n):
+A) T(n) = {1 when n=0, and (3T(n−1)+n) when n > 0}
+B) T(n) = {1 when n=1, and (T(n/2)+1)  when n > 1}
+
+Answers:
+A) T(n) = O(n)
+B) T(n) = O(log(n))
