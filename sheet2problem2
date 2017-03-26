@@ -1,0 +1,8 @@
+Sheet2 Q2:
+Bubble sort is based on swapping the consecutive arrays contents when they are
+not in order, is this sort method suitable for a linked list version than selection sort? Discuss
+
+Answer:
+Both selection sort and bubble sort will be suitable for the linked list , but
+the bubble sort involves more swapping operations which could be
+expensive.
