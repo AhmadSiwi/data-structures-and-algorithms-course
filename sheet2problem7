@@ -1,0 +1,8 @@
+Sheet2 Q7:
+Show the contents of the operator stack when evaluating the following postfix expressions:
+A) X y * t +
+B) A B * X Y - /
+
+Answers:
+A) X * y + t
+B) (A * B ) / (X – Y)
