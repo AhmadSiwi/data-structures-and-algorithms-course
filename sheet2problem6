@@ -1,0 +1,11 @@
+Sheet2 Q6:
+Show the contents of the operator stack when translating the following infix expressions into postfix:
+A) (4+3)*5-2
+B) (x+t*y)/2
+C) (-b+sqrt(b*b-4*a*c))/(2*a)
+
+Answer:
+A) 43+5*2-
+B) xty*+2/
+C) Let ~ represent unary negation
+b ~ b b * 4 a * c * - sqrt + 2 a * /
